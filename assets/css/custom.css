@@ -1,0 +1,15 @@
+.cardHeader {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.linksContainer {
+  display: flex;
+  align-items: center;
+}
+
+#two .linksContainer a {
+  color: rgba(0, 0, 0, 0.4);
+}
